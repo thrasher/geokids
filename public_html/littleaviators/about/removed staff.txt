@@ -1,0 +1,68 @@
+
+
+<tr><td colspan=2 height=12><img src="img/sp.gif" height=12></td></tr>
+
+<tr><td valign="top" align="left" width=115>&nbsp;</td><td valign="top">
+<strong>Megan Matta</strong><br>
+</td></tr>
+
+
+<tr><td valign="top" align="left" width=115><img src="../img/staff/nicole.jpg" width=100 height=100 style="border-color: white;border-width: 4px;border-style: solid;"></td><td valign="top">
+<strong>Nicole Chermat</strong><br>
+Nicole has been working with children for more than a decade and has been with GeoKids since 2006. She loves the way the world is so new and fascinating to young children, and she views them as constant reminders to learn from every experience. Nicole's interest in the field of early education is finding inspiration in the Reggio Emilia approach and integrating it within the context of play-based preschool programs here in the U.S.<br><br>
+
+When Nicole is not working, she is spending time with her own young children and sewing for her hobby business.<br><br>
+</td></tr>
+
+<tr><td colspan=2 height=12><img src="img/sp.gif" height=12></td></tr>
+
+
+<tr><td valign="top" align="left" width=115><img src="../img/staff/rika.jpg" width=100 height=100 style="border-color: white;border-width: 4px;border-style: solid;"></td><td valign="top">
+<strong>Rika Green</strong><br>
+I began working at GeoKids in May 2009. After teaching English to children in Japan, I moved to the United States and worked in a different field, but I realized my passion is working with infants and toddlers. I enjoy sharing their little discoveries and seeing their amazing growth every day.<br><br>
+
+When I'm not working, I enjoy spending time with my family, playing with my cat, going for walks, and studying Italian.<br><br>
+</td></tr>
+
+
+<tr><td colspan=2 height=12><img src="img/sp.gif" height=12></td></tr>
+
+
+<tr><td valign="top" align="left" width=115><img src="../img/staff/lyn.jpg" width=100 height=100 style="border-color: white;border-width: 4px;border-style: solid;"></td><td valign="top">
+<strong>Lyn Rupprecht</strong><br>
+
+I have worked with young children and families for many years, both in the United Kingdom and here in California.  I joined Geokids in 2007. I love my job because it gives me the opportunity to witness each child's unique path of development and each day offers fresh challenges and new experiences.<br><br>
+
+When not at work I am usually studying, reading, or spending time with my family and my two very naughty cats. I am also an avid San Jose Sharks fan.<br><br>
+</td></tr>
+
+
+
+
+<tr><td valign="top" align="left" width=115><img src="../img/staff/michele.jpg" width=100 height=100 style="border-color: white;border-width: 4px;border-style: solid;"></td><td valign="top">
+<strong>Michele McMath</strong><br>
+
+I began my career with GeoKids in early 1999 and have been working in the field since 1990.<br><br>
+What I enjoy most about working with children is being silly with them and watching them discover the "wows" and "whys" around them.<br><br>
+While not at GeoKids, I am busy taking care of my own young children: singing songs and reading stories with them or looking for trucks in the neighborhood. I also enjoy gardening.<br><br>
+</td></tr>
+
+<tr><td colspan=2 height=12><img src="img/sp.gif" height=12></td></tr>
+
+
+<tr><td valign="top" align="left" width=115><img src="../img/staff/david.jpg" width=100 height=100 style="border-color: white;border-width: 4px;border-style: solid;"></td><td valign="top">
+<strong>David Messimore</strong><br>
+</td></tr>
+
+
+<tr><td colspan=2 height=12><img src="img/sp.gif" height=12></td></tr>
+
+<tr><td valign="top" align="left" width=115><img src="../img/staff/valerie.jpg" width=100 height=100 style="border-color: white;border-width: 4px;border-style: solid;"></td><td valign="top">
+<strong>Valerie Lui</strong><br>
+
+I began working at GeoKids in 2006 but I have been working with children for over ten years.<br><br>
+What I love the most about my job is what I learn from them.<br><br>
+My hobbies include swimming and knitting. Of course, she also enjoys spending time with her family.<br><br>
+</td></tr>
+
+<tr><td colspan=2 height=12><img src="img/sp.gif" height=12></td></tr>
