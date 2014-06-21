@@ -1,4 +1,0 @@
-<?
-	/* reserved for future use */
-?>
-
