@@ -1,0 +1,23 @@
+/* TEAM */
+
+	Webmaster: Jason Thrasher
+	Contact:   jasonthrasher [at] gmail dot com
+	Twitter:   @thrasher
+	From:      Menlo Park, California, USA
+
+/* THANKS */
+
+    Fearless Leader: Heather Morado
+    Contact:         heather [at] geokids dot org
+    From:            Menlo Park, California, USA
+
+    Front Desk:      Stacey James
+    Contact:         stacey [at] geokids dot org
+    From:            Menlo Park, California, USA
+
+/* SITE */
+
+	Last update: 2014/06/21 (Summer Solstice Version)
+	Language:    English
+	Doctype:     HTML5
+	Editors:     vi, sed, Sublime Text
