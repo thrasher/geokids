@@ -13,23 +13,17 @@
   <tr>
     <th align="right">Days per week</th><th align="center" width=50>2<br/>(T/Th)</th><th align="center" width=50>3<br/>(M/W/F)</th><th align="center" width=50>5<br/>(M-F)</th>
   </tr>
-<tr>
-    <td align="left"><strong>Infant</strong></td>
-    <td align="right"><br>$1,066</td>
-    <td align="right"><br>$1,451</td>
-    <td align="right"><br>$2,050</td>
+  <tr>
+    <td align="left"><strong>Infant/Toddler</strong></td>
+    <td align="right"><br>$1,164</td>
+    <td align="right"><br>$1,560</td>
+    <td align="right"><br>$2,200</td>
   </tr>
   <tr>
-  <td align="left"><strong>Toddler</strong></td>
-    <td align="right"><br>$962</td>
-    <td align="right"><br>$1,309</td>
-    <td align="right"><br>$1,850</td>
-  </tr>
-  <tr>
-  <td align="left"><strong>Preschool</strong></td>
-    <td align="right"><br>$806</td>
-    <td align="right"><br>$1,097</td>
-    <td align="right"><br>$1,550</td>
+    <td align="left"><strong>Preschool</strong></td>
+    <td align="right"><br>$905</td>
+    <td align="right"><br>$1,215</td>
+    <td align="right"><br>$1,710</td>
   </tr>
 <tr>
 <td><strong>Co-op requirement</strong> (hrs/wk)</td>

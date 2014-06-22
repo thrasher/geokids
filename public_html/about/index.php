@@ -6,7 +6,7 @@
 
 <strong>GeoKids History</strong>
 <br>
-GeoKids was founded in 1987 by a group of parents who worked on the United States Geological Survey Campus (USGS) and the Stanford Research Institute (SRI). Over the past twenty years, GeoKids has grown into an exciting learning environment for children, families, and educators.<br>
+GeoKids was founded in 1987 by a group of parents who worked on the United States Geological Survey Campus (USGS) and the Stanford Research Institute (SRI). Over the past twenty years, GeoKids has grown into an exciting learning environment for children, families, and educators.  In 2012, GeoKids stopped receiving funding from the federal government and became a community-based program.<br>
 <br>
 <strong>Inspiration</strong>
 <br>

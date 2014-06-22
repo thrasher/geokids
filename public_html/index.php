@@ -181,7 +181,7 @@ this.rotateimage()
 	<table border=0 cellspacing=0 cellpadding=10>
 	<tr><td valign=top class="text11">
 
-GeoKids is an accredited, nationally recognized, non-profit parent cooperative providing high quality child care for children aged 3 months through pre- kindergarten. The center is located on the Menlo Park campus of the United States Geological Survey (USGS). <br><br>
+GeoKids is an accredited, nationally recognized, non-profit parent cooperative providing high quality child care for children aged 3 months through pre- kindergarten.<br><br>
 
 GeoKids is a developmental play-based program founded on the belief that children are capable, competent, self-motivated learners. Within our program adults encourage children to participate in everything that concerns them and to do as much as they are capable of doing for themselves.
 
