@@ -220,6 +220,6 @@ new fadeshow(fadeimages, 580, 400, 0, 3000, 0)
 
 </center>
 
-<? include "../content/google_analytics.inc"; ?>
+<? include "content/google_analytics.inc"; ?>
 
 </body></html>
