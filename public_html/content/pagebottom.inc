@@ -11,6 +11,6 @@
 
 </center>
 
-<? include "../content/tracking.inc"; ?>
+<? include "../content/google_analytics.inc"; ?>
 
 </body></html>

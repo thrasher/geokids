@@ -6,7 +6,6 @@
 	include("../content/header.inc");
 	if($page=="about_campus") include("campus_slideshow.inc");
 	if($page=="inside_learning") include("projects_slideshow.inc");
-	if($page=="aviators_pictures") include("aviators_slideshow.inc");
 
 	include("../content/google_tracking.inc");
 ?>

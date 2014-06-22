@@ -167,8 +167,6 @@ this.rotateimage()
 
 </script>
 
-<? include "content/google_tracking.inc"; ?>
-
 </head>
 
 <body topmargin=0 marginheight=0 bgcolor="#FFFFFF"><center>
@@ -222,6 +220,6 @@ new fadeshow(fadeimages, 580, 400, 0, 3000, 0)
 
 </center>
 
-<? include "content/tracking.inc"; ?>
+<? include "../content/google_analytics.inc"; ?>
 
 </body></html>
