@@ -7,7 +7,7 @@
 
 <h2>Geokids Tuition Schedule</h2>
 
-<p>2012-2013 school year.</p>
+<p>Current School Year</p>
 <center>
 <table border=1 cellpadding=3 cellspacing=0 summary="GeoKids Tuition Schedule">
   <tr>
