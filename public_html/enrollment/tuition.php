@@ -15,15 +15,15 @@
   </tr>
   <tr>
     <td align="left"><strong>Infant/Toddler</strong></td>
-    <td align="right"><br>$1,164</td>
-    <td align="right"><br>$1,560</td>
-    <td align="right"><br>$2,200</td>
+    <td align="right"><br>$1,190</td>
+    <td align="right"><br>$1,600</td>
+    <td align="right"><br>$2,250</td>
   </tr>
   <tr>
     <td align="left"><strong>Preschool</strong></td>
-    <td align="right"><br>$905</td>
-    <td align="right"><br>$1,215</td>
-    <td align="right"><br>$1,710</td>
+    <td align="right"><br>$925</td>
+    <td align="right"><br>$1,245</td>
+    <td align="right"><br>$1,750</td>
   </tr>
 <tr>
 <td><strong>Co-op requirement</strong> (hrs/wk)</td>
