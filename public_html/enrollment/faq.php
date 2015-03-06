@@ -22,14 +22,7 @@
 <a href="#tuition">Do you offer Tuition Assistance?</a><br><br></strong>
 
 <strong><a name="waitlist"></a>How long is the waitlist and what are my chances of getting my child enrolled?</strong><br>
-The length of the waitlist depends upon the ages of your child. In general, there is a longer wait for infants and toddlers than for preschool age children. Unfortunately we have no way of knowing exactly how long a wait may be because it depends upon a number of different factors. We give priority for enrollment in the following order (by date of application): <br>
-1.	GeoKids employees<br>
-2.	USGS employees<br>
-3.	Siblings<br>
-4.	Federal employees<br>
-5.	Non-Federal employees<br>
-<br>
-We send a waitlist update letter to all families each spring. Please fill it out if you would like to remain on the waitlist. We do remove those people who do not return the update letter. <br>
+The length of the waitlist depends upon the ages of your child. In general, there is a longer wait for infants and toddlers than for preschool age children. Unfortunately we have no way of knowing exactly how long a wait may be because it depends upon a number of different factors.<br>
 <br>
 <div style="float:right"><a href="#toc">Back to top</a></div><strong><a name="siblings"></a>What about siblings?</strong> <br>
 When your child has been at the center for a minimum of 6 months, your other child(ren) will then receive sibling priority on the waitlist. <br>
@@ -63,8 +56,5 @@ In celebrating holidays in the classroom we consider three main points. First, b
 <br>
 <div style="float:right"><a href="#toc">Back to top</a></div><strong><a name="pottytraining"></a>Does my child need to be toilet trained? Do you provide training?</strong><br>
 Toilet training is not required before a child enters GeoKids. We work with children on an individual basis as he/she shows readiness.<br>
-<br>
-<div style="float:right"><a href="#toc">Back to top</a></div><strong><a name="tuition"></a>Do you offer Tuition Assistance?</strong><br>
-A Tuition Assistance program is available to eligible families. Applications are accepted twice yearly for September to February and for March to August. Applicants must apply for each award period they would like to be considered for. <br>
 <br>
 <? include("../content/pagebottom.inc"); ?>

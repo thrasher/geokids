@@ -13,8 +13,9 @@ A volunteer Board of Directors composed of parents governs the organization. To 
 <strong>Greata Hansen</strong>, Vice President of Operations<br><br>
 <strong>Harman Paintal</strong>, Secretary<br><br>
 <strong>Christine Wichrowski Goudey</strong>, Treasurer<br><br>
-<strong>Jolon Stabuli</strong>, Member-at-Large<br><br>
-<strong>Andrew and Deb Barnes</strong>, Member-at-Large (Community Outreach)<br><br>
+<strong>Jolon Stabuli</strong>, Member at Large<br><br>
+<strong>Chimene Keitner</strong>, Member at Large<br><br>
+<strong>Andrew and Deb Barnes</strong>, Member at Large (Community Outreach)<br><br>
 <strong>Heather Morado</strong>, Executive Director<br><br>
 
 <? include("../content/pagebottom.inc"); ?>
