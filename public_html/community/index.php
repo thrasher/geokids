@@ -17,11 +17,13 @@ function getdocs($type) {
 }
 ?>
 
+<!-- removed, but not deleted, incase we want to publish this in the future.
 <h2>Documents</h2>
 <? getdocs("general"); ?><br>
 
 <h2>GeoKids Board Meeting Minutes</h2>
 <? getdocs("bodminutes"); ?><br>
+-->
 
 <h2>Forms</h2>
 <? getdocs("forms"); ?><br>
